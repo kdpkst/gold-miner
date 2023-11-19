@@ -9,7 +9,7 @@ import java.util.ArrayList;
 public class GameWin extends JFrame{
     static int state;  // 0--not start, 1--running, 2--shop, 3--failure
     static int width = 768;
-    static int height = 1000;
+    static int height = 820;
     static int goldNum = 8;
     static int coalNum = 3;
     List<Object> objectList = new ArrayList<>();  // store gold and coal
