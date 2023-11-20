@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./imgs_for_repo/gm.png" alt="golde miner" width="600" height="400" />
+  <img src="./imgs_for_repo/gm.png" alt="golde miner" width="417" height="278" />
 </p>
 
 Gold Miner is a simplified version of the classic gold mining arcade game, developed in Java. The player control a character to mine gold and coals, progressing through infinite levels. After each level, the player can choose to buy a magic potion using their scores to speed up the process of pulling up golds and coals.
