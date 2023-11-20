@@ -9,7 +9,7 @@ Gold Miner is a simplified version of the classic gold mining arcade game, devel
 - IDE such as VSCode or IntelliJ IDEA.
 
 ## Quick Start
-1. Clone the repository: `git clone https://github.com/your-username/gold-miner.git`
+1. Clone the repository: `git clone https://github.com/kdpkst/gold-miner.git`
 2. Open the project in your preferred IDE
 3. Run the GameWin.java file to start the game
 
