@@ -116,7 +116,7 @@ public class GameWin extends JFrame{
                 state = 2;
                 Background.level++;
                 Background.n++;
-                Background.goal = Background.level * 15 + 3 * Background.n;
+                Background.goal = Background.level * 15 + 4 * Background.n;
             }
             else{state = 3;}
             dispose();
