@@ -20,3 +20,4 @@ Gold Miner is a simplified version of the classic gold miner game, developed by 
 
 🎮 **_Have fun and enjoy the game!_** ✨
 
+for testing
